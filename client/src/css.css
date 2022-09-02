@@ -1,0 +1,17 @@
+body {
+    background-image: url('./img/bg.png');
+    background-repeat: repeat;
+    background-size: 30vh;
+}
+
+Link {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    height: 10vh;
+    padding-top: 1vh;
+    border-radius: 25px;
+    box-shadow: 0px 5px 15px 0px pink;
+}
